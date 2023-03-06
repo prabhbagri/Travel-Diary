@@ -1,0 +1,21 @@
+{
+    "name": "My Travel Diary",
+    "Travel Diary": [
+        {
+            "Flight Number": "F1",
+            "Destination": "Calgary",
+            "Airline": "FLAIR",
+            "Duration": 2,
+            "Time": "6:00 PM",
+            "Date": "August 01"
+        },
+        {
+            "Flight Number": "F2",
+            "Destination": "Edmonton",
+            "Airline": "FLAIR",
+            "Duration": 1,
+            "Time": "8:00 AM",
+            "Date": "August 01"
+        }
+    ]
+}

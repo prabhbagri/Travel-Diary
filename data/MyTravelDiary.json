@@ -1,0 +1,101 @@
+{
+    "name": "My Travel Diary",
+    "Travel Diary": [
+        {
+            "Flight Number": "F1",
+            "Destination": "Calgary",
+            "Airline": "FLAIR",
+            "Duration": 2,
+            "Time": "6:00 PM",
+            "Date": "August 01"
+        },
+        {
+            "Flight Number": "F2",
+            "Destination": "Edmonton",
+            "Airline": "FLAIR",
+            "Duration": 1,
+            "Time": "8:00 AM",
+            "Date": "August 01"
+        },
+        {
+            "Flight Number": "F3",
+            "Destination": "Kelowna",
+            "Airline": "FLAIR",
+            "Duration": 1,
+            "Time": "8:00 AM",
+            "Date": "August 01"
+        },
+        {
+            "Flight Number": "AC1",
+            "Destination": "Toronto",
+            "Airline": "AIR CANADA",
+            "Duration": 5,
+            "Time": "10:00 AM",
+            "Date": "August 02"
+        },
+        {
+            "Flight Number": "AC1",
+            "Destination": "Toronto",
+            "Airline": "AIR CANADA",
+            "Duration": 5,
+            "Time": "10:00 AM",
+            "Date": "August 02"
+        },
+        {
+            "Flight Number": "AC2",
+            "Destination": "Toronto",
+            "Airline": "AIR CANADA",
+            "Duration": 5,
+            "Time": "9:00 PM",
+            "Date": "August 03"
+        },
+        {
+            "Flight Number": "AC3",
+            "Destination": "Winnipeg",
+            "Airline": "AIR CANADA",
+            "Duration": 3,
+            "Time": "5:00 PM",
+            "Date": "August 03"
+        },
+        {
+            "Flight Number": "W1",
+            "Destination": "Toronto",
+            "Airline": "WEST JET",
+            "Duration": 4,
+            "Time": "4:00 AM",
+            "Date": "August 04"
+        },
+        {
+            "Flight Number": "W2",
+            "Destination": "Saskatchewan",
+            "Airline": "WEST JET",
+            "Duration": 6,
+            "Time": "11:00 PM",
+            "Date": "August 05"
+        },
+        {
+            "Flight Number": "S1",
+            "Destination": "Nunavut",
+            "Airline": "SWOOP",
+            "Duration": 7,
+            "Time": "1:00 PM",
+            "Date": "August 06"
+        },
+        {
+            "Flight Number": "S2",
+            "Destination": "Montreal",
+            "Airline": "SWOOP",
+            "Duration": 5,
+            "Time": "2:00 AM",
+            "Date": "August 07"
+        },
+        {
+            "Flight Number": "AC4",
+            "Destination": "Hawaii",
+            "Airline": "AIR CANADA",
+            "Duration": 1,
+            "Time": "1:00 PM",
+            "Date": "August 31"
+        }
+    ]
+}
